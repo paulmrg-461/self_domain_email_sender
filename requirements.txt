@@ -1,0 +1,3 @@
+mailersend
+python-dotenv
+requests
